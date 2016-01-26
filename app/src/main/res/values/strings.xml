@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CalorieConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="convert_dialog_opening">Convert</string>
+    <string name="convert_dialog_middle">into</string>
+    <string name="title_activity_conversion_stats">ConversionStats</string>
+    <string name="reps_hint">This many</string>
+    <string name="equals">is equivalent to</string>
+
+    <string-array name="conversion_options">
+        <item>Push ups</item>
+        <item>Situps</item>
+        <item>Squats</item>
+        <item>Leg-lifts</item>
+        <item>Planks</item>
+        <item>Jumping Jacks</item>
+        <item>Pullups</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-climbing</item>
+        <item>Calories</item>
+    </string-array>
+
+    <string-array name="conversion_titles">
+        <item>push up reps</item>
+        <item>situp reps</item>
+        <item>squat reps</item>
+        <item>minutes of leg-lifts</item>
+        <item>minutes planking</item>
+        <item>minutes of jumping jacks</item>
+        <item>pullup reps</item>
+        <item>minutes cycling</item>
+        <item>minutes walking</item>
+        <item>minutes jogging</item>
+        <item>minutes swimming</item>
+        <item>minutes of stair-climbing</item>
+        <item>calories</item>
+    </string-array>
+
+    <integer-array name="conversion_rates">
+        <item>350</item>
+        <item>200</item>
+        <item>225</item>
+        <item>25</item>
+        <item>25</item>
+        <item>10</item>
+        <item>100</item>
+        <item>12</item>
+        <item>20</item>
+        <item>12</item>
+        <item>13</item>
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+</resources>
