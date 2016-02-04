@@ -12,7 +12,7 @@ Nicholas Hardison-Moschopoulos ([mosnicholas@berkeley.edu](mailto:mosnicholas@be
 
 ## Demo Video
 
-See [your demo video title here] (https://youtube.com)
+See [Calorie Converter App walkthrough](https://youtu.be/3PlUaTVSb7I)
 
 ## Screenshots
 
